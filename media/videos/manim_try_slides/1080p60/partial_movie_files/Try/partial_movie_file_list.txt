@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/manim_try_slides/1080p60/partial_movie_files/Try/3977891868_3609798158_223132457.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/manim_try_slides/1080p60/partial_movie_files/Try/2852726489_655164463_63254108.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/manim_try_slides/1080p60/partial_movie_files/Try/2852726489_3821914115_973267698.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/manim_try_slides/1080p60/partial_movie_files/Try/2852726489_1356787679_4039011047.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/manim_try_slides/1080p60/partial_movie_files/Try/2852726489_2336173340_223132457.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/manim_try_slides/1080p60/partial_movie_files/Try/2852726489_1660834740_2969196333.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/manim_try_slides/1080p60/partial_movie_files/Try/2852726489_1547585085_1752012132.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/manim_try_slides/1080p60/partial_movie_files/Try/2852726489_3712367666_223132457.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/manim_try_slides/1080p60/partial_movie_files/Try/2852726489_2590508588_3788644331.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/manim_try_slides/1080p60/partial_movie_files/Try/2852726489_1543082195_3517240733.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/manim_try_slides/1080p60/partial_movie_files/Try/2852726489_303394631_3996368188.mp4'

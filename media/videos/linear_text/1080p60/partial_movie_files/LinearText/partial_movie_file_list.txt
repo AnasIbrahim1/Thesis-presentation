@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/linear_text/1080p60/partial_movie_files/LinearText/3977891868_3535561407_223132457.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/linear_text/1080p60/partial_movie_files/LinearText/2852726489_2518758693_3716193140.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/linear_text/1080p60/partial_movie_files/LinearText/2852726489_3388072913_1191486511.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/linear_text/1080p60/partial_movie_files/LinearText/2852726489_2394976870_950887755.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/linear_text/1080p60/partial_movie_files/LinearText/2852726489_2117452835_846057803.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/linear_text/1080p60/partial_movie_files/LinearText/2852726489_3827649122_2674678240.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/linear_text/1080p60/partial_movie_files/LinearText/2852726489_557490903_1128340697.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/linear_text/1080p60/partial_movie_files/LinearText/2852726489_2805691847_95108952.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/linear_text/1080p60/partial_movie_files/LinearText/2852726489_167647234_1128340697.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/linear_text/1080p60/partial_movie_files/LinearText/2852726489_4170252346_1694097781.mp4'
+file 'file:/home/group03-f23/Desktop/Anas/presentation/media/videos/linear_text/1080p60/partial_movie_files/LinearText/2852726489_3881646597_3910142643.mp4'

@@ -1,0 +1,661 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>Manim Slides</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.1.0/reveal.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.1.0/theme/black.min.css">
+
+    <!-- Theme used for syntax highlighting of code -->
+    <!-- <link rel="stylesheet" href="lib/css/zenburn.css"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/styles/zenburn.min.css">
+
+    <!-- <link rel="stylesheet" href="index.css"> -->
+  </head>
+
+  <body>
+    <div class="reveal">
+      <div class="slides"><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/4c103f7de20e0026cb6ed1760e3a9b7accd445fc9568bac534fc5980c23feca6.mp4"
+              data-background-video-muted>
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/1aa77c7193c35d2f06ae54efe86be7e23f6af49537e05fd74ac83650a6457d75.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/cd4d75134474ad08444385a1c08cb002ace4ada3ffccdad953ff21e77c6a7f00.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/3f2c56df6bd14910bfdf21d7d2a3da4c4a7aa6f6ab174ca7f8670bb2f0cc6ade.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/0935d2a5d37ee9be979e5168adc98708a23bff228f70354694297dce7a5683e2.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/93df3037a81a4739cb6104f1e570901fd0661ebb62b8bc6f6453284ee7d1745c.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/d2fc18bd5e3dcf722a12d920947d1f4728b14bd7db741476b31561cd89c842a5.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/7504b69e6bbcb1c01f4e2fe12e431c1556b813dec8f870089433e1d9ae2ec1e9.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/b150ae1aa578243132d55cb4a897d38e9b160d915ad8cfa9283c0ad8942e6bd4.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/ba1e55d4bc049b677d394ae25baf4ec9f7853f460785abd80689e9d99b87a8cc.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/0196b0e5648da6692e7091cc15782e8a394798665b6c0b2d2806864e59cd4286.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/4219b6b6d585d5691bf189bfa695d52b7cadd17024f1fd5ac00aed8c13d8ce6a.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/1fdc377b9ffe01488844577943f3c09ce03a2c10e8ce5713567a0199941c112b.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/a38eda9a7174f5a58b33e7abcec24c056872c61b46467c27444287465378a6c0.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/428ef1b1cb09ad426941ffa88f830de880a5186648770eb9530869de7dfb92ec.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/02a0c4b25a0425698187d2ee84a76e07c8848119968108afdd9fa0321f538726.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/61d6389ff03823f530a8ace690614e43a417d7c35c4b294c67fe848f90f5d9f2.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/50fe659130634086e2813c83a11d3f08ab3aef329c6b198d1080ee5e9c4a932c.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/44125d1ed192966bc8102534600f17c204c67d1f2d93e79993a4b511036c424e.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/b40868ccff624eabd2ed235bafc79dacdf2b3bef5ccd4d0a813821a2a307be89.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/371b7d31c66cbb285582caa54368755c8c4621e589f57cd5f159e25e3c059532.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/9a1013f0b5b78fe74018b2c65455f70a4fb3d066797404b8a74166736cfb00ad.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/94d2ce0768838d3b52f4dd601d9ec4f768eb9ab4b3c2006bf76b19b7cfb34018.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/4ea370c721a487bb79a9563687db26c2a1c9271f8a057283543a703e2e787344.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/d13fcf625c559cd339b87e0ccc463be875b125baffaecd4a3ed57e6ccd7c8bcd.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/2284cb4f0c1e9e1969127ca8d12443c0024fb94f58331683ea573f6fc9074994.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/38a24e753ef3524be94653e3a1d29bd1f2d35f3af5adc54f1a9a650ea3c7afc3.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/ac56d397521d9a3f640555a49d0865023916623bb79744142aec8df7bf0d20d4.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/da66c0a0124538a1a26c67c80cca6ed30d162f253bafebf7bc2d2ad33a831d49.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/305d7dfbeaf7ee481cb8ad2aa001e8e0526d4e1ac73f3bfa4b85fd8b0c2006ed.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/90b4355065958c259dca22920b9f34a502e5c0859474d8bc9bc867bd6f47c440.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/47106ccaf659bff1de5694ead1fd23a01bb01657796fbd41f92e1be919c00c85.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/2db31bc2977dc809977b4b3e465599ae09310ccad9bdb56e1799186c91ceed14.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/b5486b52836f6f8d214ccb008735a2e225e9431a54715486a8aa8c4af2caa3da.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/27020c0526b1c8aa7dd042c73191bc5dde5b9fea7802b5eba4c8a1c4e6058c7b.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/7df8153aef6926b17dd87845063ea3844e5faeb1d407355b1496175208462864.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/2c786a0c1483f9c1a8613c8841d064efc9ada14a412a75ec9ff355a646defdf2.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/0f6a1edd02abbccc2cb813d51292b834e18f6a5f54d6a141f783a98497cf56d5.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/54998157102f4725e5fe9daa0089a273ba7b079f244becd6f77836a00408d3fb.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/8db1f8904447c2e47a8e528941f5819aeac283b8af6aeb8f4dcf8a244b9d1ca7.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/0ef79783e698e32b318a0ac7f0987dfeb60e3dc8b307eb6d3ff0a76ec745e426.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/84ffa4008b5dabe6c27aa234b174144eb437e01df3e64de3cd5a562961878658.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/7cef6d8e3a1ea7044fe66ebe6cf795df3a92e4d1ef6430e663701110075f6d9b.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/39b52b88fd6f1accb77112e57b8ebbf75d07c8a171776252055261b1e5271c35.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/ba659555cd34df14a286b88442ca2711d0a489224871942cd076d5e904760853.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/5152e6c734529bbad734c92ad8eed2d1c28dc2e136e6a1d5a22fd40be29ba695.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/077739ef0fb6687a1f92cda351efe9739a4a7e21abc453c17af8966c45ee9fe0.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/486897dbb05e54837a2df0efec6d531c7fe972fd1cf9814687bc3374ee1824e5.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/45a3f1504d2df4f41ce227e86132abf680ec6bccb04a0482076191ea3f20e358.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/591af825f7959bed89c54c8ae2c7e43ada953b682d3c1e2fd838ea7f60ee315a.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/cb1a5b82023806fa70e18821dc14a9b50352a4cc3bfdd322210285a836f56093.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/cc4ca8185efe2eb0625a4052e01a650298c071b9599bbd9a80ec92270da7c2a8.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/25cc840d691feff02039b67bd8c15dfdc62ddeb7330fadb1e0d2883ee2e2bc58.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/5e76746e0c2ea6e66fddaa29ddf570fa40a9f805d61dae030f6c01d8454cdcdf.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/483f937550bcb72368499f060548119305fd51637e9c70966799b0630d177545.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/5c8d7315189372f8269af75d8b1690128ede36b70bd67d64d1173789406b7a8a.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/6b08b16f838a478031584209fcf5ec56d61da2c7c5687d1a35cfd1cc16bff992.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/3c82beb5ebd7ae996bc5de81bc271a0f7fd7bf91e035812c34029527e30af460.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/f13465cc3ba2d46846e1c90703f7fbe03fad6b2d3a7955de34827e5c0c4576fc.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/68c3d664e0a4a1307ec2ff839f57913959ad58f243e50839f2a4ea87afe7f324.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/1f404edc3b318db5ffb4d2946ca766604306b3717d4568b24226c2644e507986.mp4"
+              >
+              
+            </section><section
+              data-background-size='contain'
+              data-background-color="black"
+              data-background-video="Galois_assets/9935d84b37fb45c9f30d1deb07ab6b94087092c6701b088aefd6710e517b0387.mp4"
+              >
+              
+            </section></div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.1.0/reveal.min.js"></script>
+
+    <!-- To include plugins, see: https://revealjs.com/plugins/ -->
+
+    <!-- <script src="index.js"></script> -->
+    <script>
+      Reveal.initialize({
+        
+        // The "normal" size of the presentation, aspect ratio will
+        // be preserved when the presentation is scaled to fit different
+        // resolutions. Can be specified using percentage units.
+        width: '100%',
+        height: '100%',
+
+        // Factor of the display size that should remain empty around
+        // the content
+        margin: 0.04,
+
+        // Bounds for smallest/largest possible scale to apply to content
+        minScale: 0.2,
+        maxScale: 2.0,
+
+        // Display presentation control arrows
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'bottom-right',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: false,
+
+        // Display the page number of the current slide
+        // - true:    Show slide number
+        // - false:   Hide slide number
+        //
+        // Can optionally be set as a string that specifies the number formatting:
+        // - "h.v":   Horizontal . vertical slide number (default)
+        // - "h/v":   Horizontal / vertical slide number
+        // - "c":   Flattened slide number
+        // - "c/t":   Flattened slide number / total slides
+        //
+        // Alternatively, you can provide a function that returns the slide
+        // number for the current slide. The function should take in a slide
+        // object and return an array with one string [slideNumber] or
+        // three strings [n1,delimiter,n2]. See #formatSlideNumber().
+        slideNumber: false,
+
+        // Can be used to limit the contexts in which the slide number appears
+        // - "all":      Always show the slide number
+        // - "print":    Only when printing to PDF
+        // - "speaker":  Only in the speaker view
+        showSlideNumber: 'all',
+
+        // Use 1 based indexing for # links to match slide number (default is zero
+        // based)
+        hashOneBasedIndex: false,
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: false,
+
+        // Push each slide change to the browser history.  Implies `hash: true`
+        history: false,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Optional function that blocks keyboard events when retuning false
+        //
+        // If you set this to 'focused', we will only capture keyboard events
+        // for embedded decks when they are in focus
+        keyboardCondition: null,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Vertical centering of slides
+        center: true,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // Changes the behavior of our navigation directions.
+        //
+        // "default"
+        // Left/right arrow keys step between horizontal slides, up/down
+        // arrow keys step between vertical slides. Space key steps through
+        // all slides (both horizontal and vertical).
+        //
+        // "linear"
+        // Removes the up/down arrows. Left/right arrows step through all
+        // slides (both horizontal and vertical).
+        //
+        // "grid"
+        // When this is enabled, stepping left/right from a vertical stack
+        // to an adjacent vertical stack will land you at the same vertical
+        // index.
+        //
+        // Consider a deck with six slides ordered in two vertical stacks:
+        // 1.1    2.1
+        // 1.2    2.2
+        // 1.3    2.3
+        //
+        // If you're on slide 1.3 and navigate right, you will normally move
+        // from 1.3 -> 2.1. If "grid" is used, the same navigation takes you
+        // from 1.3 -> 2.3.
+        navigationMode: 'default',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: true,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the question-mark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autolaying embedded media (video/audio/iframe)
+        // - null:   Media will only autoplay if data-autoplay is present
+        // - true:   All media will autoplay, regardless of individual setting
+        // - false:  No media will autoplay, regardless of individual setting
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes
+        // - null:   Iframes with data-src AND data-preload will be loaded when within
+        //           the viewDistance, iframes with only data-src will be loaded when visible
+        // - true:   All iframes with data-src will be loaded when within the viewDistance
+        // - false:  All iframes with data-src will be loaded only when visible
+        preloadIframes: null,
+
+        // Can be used to globally disable auto-animation
+        autoAnimate: true,
+
+        // Optionally provide a custom element matcher that will be
+        // used to dictate which elements we can animate between.
+        autoAnimateMatcher: null,
+
+        // Default settings for our auto-animate transitions, can be
+        // overridden per-slide or per-element via data arguments
+        autoAnimateEasing: 'ease',
+        autoAnimateDuration: 1.0,
+        autoAnimateUnmatched: true,
+
+        // CSS properties that can be auto-animated. Position & scale
+        // is matched separately so there's no need to include styles
+        // like top/right/bottom/left, width/height or margin.
+        autoAnimateStyles: ['opacity', 'color', 'background-color', 'padding', 'font-size', 'line-height', 'letter-spacing', 'border-width', 'border-color', 'border-radius', 'outline', 'outline-offset'],
+
+        // Controls automatic progression to the next slide
+        // - 0:      Auto-sliding only happens if the data-autoslide HTML attribute
+        //           is present on the current slide or fragment
+        // - 1+:     All slides will progress automatically at the given interval
+        // - false:  No auto-sliding, even if data-autoslide is present
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding (defaults to navigateNext)
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // Opens links in an iframe preview overlay
+        // Add `data-preview-link` and `data-preview-link="false"` to customize each link
+        // individually
+        previewLinks: false,
+
+        // Exposes the reveal.js API through window.postMessage
+        postMessage: true,
+
+        // Dispatches all reveal.js events to the parent window through postMessage
+        postMessageEvents: false,
+
+        // Focuses body when page changes visibility to ensure keyboard shortcuts work
+        focusBodyOnPageVisibilityChange: true,
+
+        // Transition style
+        transition: 'none', // none/fade/slide/convex/concave/zoom
+
+        // Transition speed
+        transitionSpeed: 'default', // default/fast/slow
+
+        // Transition style for full page slide backgrounds
+        backgroundTransition: 'none', // none/fade/slide/convex/concave/zoom
+
+        // The maximum number of pages a single slide can expand onto when printing
+        // to PDF, unlimited by default
+        pdfMaxPagesPerSlide: Number.POSITIVE_INFINITY,
+
+        // Prints each fragment on a separate slide
+        pdfSeparateFragments: true,
+
+        // Offset used to reduce the height of content within exported PDF pages.
+        // This exists to account for environment differences based on how you
+        // print to PDF. CLI printing options, like phantomjs and wkpdf, can end
+        // on precisely the total height of the document whereas in-browser
+        // printing has to end one pixel before.
+        pdfPageHeightOffset: -1,
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000
+      });
+
+      
+    </script>
+
+    
+  </body>
+</html>
